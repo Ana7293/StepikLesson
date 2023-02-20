@@ -7,7 +7,7 @@ public class HelloWorld {
         System.out.println("Привет, Андрей");
         System.out.println("Привет, Тихон");
         System.out.println("Привет, Антон");
-        System.out.println("Привет, Костя");
+        System.out.println("Привет, Константин");
     }
 
 }

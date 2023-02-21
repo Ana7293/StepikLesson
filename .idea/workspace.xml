@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2a6ac6c-0862-49e6-a791-bbff1adef20f" name="Changes" comment="Lesson2\4">
-      <change afterPath="$PROJECT_DIR$/src/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConditionalOperator">
+  <component name="RunManager" selected="Application.IntegerTypes">
     <configuration name="ConditionalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalOperator" />
       <module name="HelloWorld" />
@@ -55,6 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntegerTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntegerTypes" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Variable" />
       <module name="HelloWorld" />
@@ -64,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegerTypes" />
         <item itemvalue="Application.ConditionalOperator" />
         <item itemvalue="Application.Variable" />
         <item itemvalue="Application.HelloWorld" />
@@ -93,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676915161186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson2\4">
+      <created>1676920657777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676920657777</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

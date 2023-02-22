@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a6ac6c-0862-49e6-a791-bbff1adef20f" name="Changes" comment="Lesson2\8">
-      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
+    <list default="true" id="b2a6ac6c-0862-49e6-a791-bbff1adef20f" name="Changes" comment="Lesson2\9">
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Strings">
+  <component name="RunManager" selected="Application.Loop">
     <configuration name="Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Boolean" />
       <module name="HelloWorld" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntegerTypes" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Boolean" />
         <item itemvalue="Application.Char" />
         <item itemvalue="Application.FloatDouble" />
-        <item itemvalue="Application.IntegerTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677009228216</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lesson2\9">
+      <created>1677010948552</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677010948552</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +174,7 @@
     <MESSAGE value="Lesson2\6" />
     <MESSAGE value="Lesson2\7" />
     <MESSAGE value="Lesson2\8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson2\8" />
+    <MESSAGE value="Lesson2\9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson2\9" />
   </component>
 </project>

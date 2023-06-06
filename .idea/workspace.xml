@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a6ac6c-0862-49e6-a791-bbff1adef20f" name="Changes" comment="Lesson2\12">
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+    <list default="true" id="b2a6ac6c-0862-49e6-a791-bbff1adef20f" name="Changes" comment="Lesson2\13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677177772162</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lesson2\13">
+      <created>1677181983157</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677181983157</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +205,7 @@
     <MESSAGE value="Lesson2\10" />
     <MESSAGE value="Lesson2\11" />
     <MESSAGE value="Lesson2\12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson2\12" />
+    <MESSAGE value="Lesson2\13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson2\13" />
   </component>
 </project>
